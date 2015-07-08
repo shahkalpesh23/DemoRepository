@@ -70,6 +70,7 @@
     <Content Include="assets\images\client-1.jpg" />
     <Content Include="assets\images\client-2.jpg" />
     <Content Include="assets\images\cover.jpg" />
+    <Content Include="assets\images\image1.jpg" />
     <Content Include="assets\images\item-1.jpg" />
     <Content Include="assets\images\item-2.jpg" />
     <Content Include="assets\images\item-3.jpg" />
